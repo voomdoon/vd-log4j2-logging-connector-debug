@@ -14,7 +14,7 @@
 	<version>0.1.0-SNAPSHOT</version>
 
 	<properties>
-		<toolMainClass>de.voomdoon.logging.log4j2.debug.LevelsDebug</toolMainClass>
+		<toolMainClass>de.voomdoon.logging.connector.log4j2.debug.LevelsDebugProgram</toolMainClass>
 	</properties>
 
 	<dependencies>
